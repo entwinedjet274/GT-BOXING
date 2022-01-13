@@ -1,0 +1,79 @@
+body {
+    background: #757575; 
+     color: #ffff00;
+     display: grid;
+     font-family:  'Oswald', Sans-Serif;
+   font-size: 24px;
+   text-align: center;
+   }
+   
+   .grid {
+   
+     width: auto;
+     height: auto;
+   }
+   
+   .grid-head {
+     text-align: right;
+     font-size: 20px; }
+   
+   li {
+     display: inline;
+     
+   }
+   
+   .grid-h1 {
+     padding: 50px;
+    
+     height: 250px;
+    text-align: center;
+    font-size: 40px;
+     background-image: url("https://cdn.pixabay.com/photo/2013/07/13/12/35/fighting-159921_960_720.png");
+   background-repeat: no-repeat;
+   background-position: contain;
+   background-size: 100%;
+   }
+   
+   button {
+     height: 20px;
+   }
+   
+   #facebook {
+   background-color: transparent;
+   background-image: url("https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678128-social-facebook-512.png");
+   background-repeat: no-repeat;
+   background-size: contain;background-position: center;
+   height: 30px;
+   width: 30px;
+   border-radius: 30px ;
+   border-color: transparent;
+   }
+   
+   #instagram {
+     background-color: transparent;
+     background-image: url("https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png");
+     background-repeat: no-repeat;
+   background-size: contain;background-position: center;
+   height: 30px;
+   width: 30px;
+   border-radius: 30px ;
+   border-color: transparent;
+   }
+   
+   #con{
+     padding: 5px;
+     margin-top: 55px;
+   
+   }
+   
+   .grid-mid {
+     text-align: center;
+     font-size: 30px;
+   }
+   
+   .grid-footer {
+     background-image: url("https://www.teamusa.org/-/media/USA_Boxing/2020-Refresh/usabUpdatedOfficial.png");
+     background-repeat: no-repeat;
+     background-size: 5%;
+     background-position: left;
+   }
